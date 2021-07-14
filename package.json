@@ -1,5 +1,5 @@
 {
-  "homepage": "http://adasiurna.github.io/contactify",
+  "homepage": "https://adasiurna.github.io/contactify",
   "name": "contactify",
   "version": "0.1.0",
   "private": true,
@@ -20,12 +20,12 @@
     "web-vitals": "^1.0.1"
   },
   "scripts": {
-    "predeploy": "yarn run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
