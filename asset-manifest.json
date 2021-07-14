@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/contactify/static/css/main.67b42efd.chunk.css",
+    "main.js": "/contactify/static/js/main.ba646f60.chunk.js",
+    "main.js.map": "/contactify/static/js/main.ba646f60.chunk.js.map",
+    "runtime-main.js": "/contactify/static/js/runtime-main.57becbc1.js",
+    "runtime-main.js.map": "/contactify/static/js/runtime-main.57becbc1.js.map",
+    "static/js/2.6d8bb326.chunk.js": "/contactify/static/js/2.6d8bb326.chunk.js",
+    "static/js/2.6d8bb326.chunk.js.map": "/contactify/static/js/2.6d8bb326.chunk.js.map",
+    "static/js/3.352af9fa.chunk.js": "/contactify/static/js/3.352af9fa.chunk.js",
+    "static/js/3.352af9fa.chunk.js.map": "/contactify/static/js/3.352af9fa.chunk.js.map",
+    "index.html": "/contactify/index.html",
+    "static/css/main.67b42efd.chunk.css.map": "/contactify/static/css/main.67b42efd.chunk.css.map",
+    "static/js/2.6d8bb326.chunk.js.LICENSE.txt": "/contactify/static/js/2.6d8bb326.chunk.js.LICENSE.txt",
+    "static/media/userpic.jpg": "/contactify/static/media/userpic.a2e113e8.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57becbc1.js",
+    "static/js/2.6d8bb326.chunk.js",
+    "static/css/main.67b42efd.chunk.css",
+    "static/js/main.ba646f60.chunk.js"
+  ]
+}
