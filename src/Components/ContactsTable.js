@@ -72,7 +72,7 @@ class ContactsTable extends Component {
   handleContactClick(event) {
     let singleContactId = event.target.getAttribute('data-id');
     console.log(event.target.parentElement);
-    if (this.state.showCard && singleContactId == this.state.singleContact.id) {
+    if (this.state.showCard && singleContactId === this.state.singleContact.id) {
       this.setState({ showCard: false })
     } else {
       this.setState({ showCard: true })
