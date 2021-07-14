@@ -41,6 +41,7 @@ body {
 
 .header-main {
   align-items: center;
+  min-width: 750px;
 }
 
 .header-filter-active path {
@@ -183,6 +184,7 @@ select.select {
   top: 110px;
   border-radius: 0 0 10px 10px;
   min-height: 500px;
+  min-width: 1000px;
 }
 
 .main-container-background-grey {
